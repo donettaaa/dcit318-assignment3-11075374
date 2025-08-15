@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Paper Reams",
+    "Quantity": 20,
+    "DateAdded": "2025-08-15T00:00:00+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Ink Cartridges",
+    "Quantity": 8,
+    "DateAdded": "2025-08-14T00:00:00+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Staplers",
+    "Quantity": 15,
+    "DateAdded": "2025-08-13T00:00:00+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Pens",
+    "Quantity": 50,
+    "DateAdded": "2025-08-15T00:00:00+00:00"
+  }
+]
